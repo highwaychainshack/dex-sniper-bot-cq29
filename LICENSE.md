@@ -1,4 +1,4 @@
-# 
+# smart dex sniper bot Addon | market-making + MEV-strategies is the best dex sniper bot, featuring market-making and MEV-strategies. Smart, fast, and optimized for trading on
 
 
 
